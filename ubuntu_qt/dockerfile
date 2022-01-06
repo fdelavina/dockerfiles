@@ -1,0 +1,12 @@
+# Download base image ubuntu 20.04
+FROM ubuntu:20.04
+
+# Update Ubuntu Software repository
+#RUN apt update -y
+
+
+#RUN apt install -y qt5-default 
+
+	
+  
+
